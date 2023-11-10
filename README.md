@@ -1,4 +1,4 @@
-#Gestion du dépôt Git (Partie 1 )
+# Gestion du dépôt Git (Partie 1 )
 1-Initialiser un nouveau référentiel Git :
 
 git init
@@ -11,7 +11,7 @@ git commit -m "Commit initial"
 touchez .gitignore
  Ajouter des fichiers/répertoires à ignorer dans .gitignore
 
-#Création de fichier Docker (partie 2)
+# Création de fichier Docker (partie 2)
 1-Création du Dockerfile :
 (Voir Dockerfile dans le projet.)
 
@@ -22,7 +22,7 @@ docker build -t votre_nom_image .
 touchez .dockerignore
  Ajouter des fichiers/répertoires à ignorer lors de la création de l'image Docker
 
-#Configuration de Docker Compose (partie 3)
+# Configuration de Docker Compose (partie 3)
 
 1-Création du fichier docker-compose.yaml :
 (Voir docker-compose.yaml dans le projet.)
